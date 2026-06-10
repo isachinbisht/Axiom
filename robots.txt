@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axiomstudy.com/sitemap.xml
+Sitemap: https://aaxiom.netlify.app/sitemap.xml
